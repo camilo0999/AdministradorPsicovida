@@ -18,9 +18,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="navbar-brand">
-        <i className="fas fa-brain logo-icon"></i>
-        <span className="logo-text">PsicoVida</span>
-        <span className="logo-tagline">Salud Mental Integral</span>
+        <p className="logo-text">PsicoVida</p>
       </div>
       <div className="navbar-actions">
         <div className="user-info">

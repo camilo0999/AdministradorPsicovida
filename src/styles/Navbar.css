@@ -19,7 +19,13 @@
 .navbar-brand {
   display: flex;
   align-items: center;
-  gap: 15px;
+  justify-content: center;
+}
+
+.navbar-brand p {
+  font-weight: 600;
+  color: #2980b9;
+  margin-top: 15px;
 }
 
 .navbar-logo {

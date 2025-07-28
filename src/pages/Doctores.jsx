@@ -262,15 +262,15 @@ function Doctores() {
         <main className="main-content">
           <div className="content-header">
             <h1>
-              <i className="fas fa-user-md"></i> Gestión de Doctores
+              <i className="fas fa-user-md"></i> Gestión de Psicologos
             </h1>
-            <p>Administración del personal médico</p>
+            <p>Administración del personal de salud mental </p>
           </div>
 
           <section className="card-section">
             <div className="section-header">
               <h2>
-                <i className="fas fa-list"></i> Listado de Médicos
+                <i className="fas fa-list"></i> Listado de Psicologos
               </h2>
               <div className="section-actions">
                 <div className="search-container">

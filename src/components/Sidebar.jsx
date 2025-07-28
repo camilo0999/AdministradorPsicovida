@@ -10,7 +10,7 @@ function Sidebar() {
   return (
     <div className="sidebar">
       <div className="sidebar-logo">
-        <i className="fas fa-heartbeat logo-icon"></i>
+        <i className="fas fa-brain logo-icon"></i>
         <span>Panel de Control</span>
       </div>
       <nav>

@@ -4,10 +4,10 @@ function Inicio() {
   return (
     <div className="inicio-container">
       <div className="inicio-content">
-        <h1>Bienvenido al Sistema de Gestión de Citas Médicas</h1>
+        <h1>Bienvenido al Sistema de Gestión de Citas de PsicoVida</h1>
         <p className="inicio-subtitle">
           Tu plataforma integral para la administración eficiente de citas
-          médicas
+          psicológicas
         </p>
 
         <div className="welcome-section">
@@ -15,8 +15,8 @@ function Inicio() {
             <h2>¿Qué puedes hacer con este sistema?</h2>
             <p>
               Nuestro sistema te permite gestionar de manera integral todos los
-              aspectos de tu consultorio médico desde una interfaz moderna y
-              fácil de usar.
+              aspectos de tu consultorio psicológico desde una interfaz moderna
+              y fácil de usar.
             </p>
           </div>
         </div>
@@ -30,19 +30,20 @@ function Inicio() {
               <h3>Pacientes</h3>
               <p>
                 Gestiona la información completa de tus pacientes: datos
-                personales, historial médico, contactos de emergencia y más.
-                Mantén un registro organizado y accesible de todos tus
+                personales, historial psicologico, contactos de emergencia y
+                más. Mantén un registro organizado y accesible de todos tus
                 pacientes.
               </p>
             </div>
 
             <div className="module-card">
               <div className="module-icon">👨‍⚕️</div>
-              <h3>Doctores</h3>
+              <h3>Psicólogos</h3>
               <p>
-                Administra el personal médico: especialidades, credenciales,
-                información de contacto y asignación de consultorios. Organiza
-                tu equipo médico de manera eficiente.
+                Administra el personal psicológico: especialidades,
+                credenciales, información de contacto y asignación de
+                consultorios. Organiza tu equipo psicológico de manera
+                eficiente.
               </p>
             </div>
 
@@ -50,9 +51,9 @@ function Inicio() {
               <div className="module-icon">📅</div>
               <h3>Horarios de Atención</h3>
               <p>
-                Configura y gestiona los horarios de atención de cada doctor.
+                Configura y gestiona los horarios de atención de cada psicólogo.
                 Define días laborables, horarios disponibles y excepciones.
-                Optimiza la disponibilidad de tu personal médico.
+                Optimiza la disponibilidad de tu personal psicológico.
               </p>
             </div>
 
@@ -71,9 +72,9 @@ function Inicio() {
               <div className="module-icon">💬</div>
               <h3>Mensajes</h3>
               <p>
-                Comunícate directamente con pacientes y personal médico a través
-                del sistema integrado de mensajería. Envía recordatorios de
-                citas, confirmaciones y notificaciones importantes.
+                Comunícate directamente personal administracion a través del
+                sistema integrado de mensajería. Envía recordatorios de citas,
+                confirmaciones y notificaciones importantes.
               </p>
             </div>
           </div>
