@@ -30,7 +30,7 @@ function Sidebar() {
           <li className={location.pathname === "/doctores" ? "active" : ""}>
             <Link to="/doctores">
               <i className="fas fa-user-md"></i>
-              <span>Doctores</span>
+              <span>Psicologos</span>
             </Link>
           </li>
           <li>
